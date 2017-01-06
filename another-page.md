@@ -1,4 +1,5 @@
 ---
+title: Some Stuff
 layout: default
 ---
 
