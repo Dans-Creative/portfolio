@@ -1,5 +1,5 @@
 ---
-title: Cayman theme
+title: Portfolio
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Cayman is a clean, responsive theme for GitHub Pages.
+description: Portfolio is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics: 
 theme: 
